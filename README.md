@@ -1,7 +1,7 @@
 👋 Hi, I'm Ragul Dravid
 
 💻 Full Stack Developer | MERN Stack Enthusiast  
-📍 Coimbatore, India  
+📍 Madurai - Tamilnadu, India  
 
 🚀 Skills
 - *Frontend:* HTML, CSS, JavaScript, React JS  
