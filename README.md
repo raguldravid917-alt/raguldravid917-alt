@@ -22,8 +22,5 @@
 - TypeScript  
 
 📫 Contact
-- *Email:* raguldravid917@gmail.com
-- - *LinkedIn:* linkedin.com/in/ragul-dravid-b0b46027b
-## 📫 Contact
-- *Email:* raguld900@gmail.com  
-- *LinkedIn:* (Your LinkedIn link here)
+- *Email:*  raguldravid917@gmail.com 
+- *LinkedIn:* linkedin.com/in/ragul-dravid-b0b46027b
