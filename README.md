@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Ragul Dravid
 
-<!--
-**raguldravid917-alt/raguldravid917-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN Stack Enthusiast  
+📍 Coimbatore, India  
 
-Here are some ideas to get you started:
+🚀 Skills
+- *Frontend:* HTML, CSS, JavaScript, React JS  
+- *Backend:* Node JS, Express  
+- *Database:* MongoDB  
+- *Others:* Git, GitHub, REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📂 Featured Projects
+- 🔥 *E-commerce App* – MERN full-stack app with cart, login, admin panel  
+- 📱 *Task Manager* – React + Node CRUD application  
+- 🎬 *Movie Search App* – React + API integration  
+
+
+🌱 Currently Learning
+- Advanced React  
+- Next.js  
+- TypeScript  
+
+📫 Contact
+- *Email:* raguldravid917@gmail.com
+- - *LinkedIn:* linkedin.com/in/ragul-dravid-b0b46027b
+## 📫 Contact
+- *Email:* raguld900@gmail.com  
+- *LinkedIn:* (Your LinkedIn link here)
